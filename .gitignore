@@ -1,0 +1,4 @@
+data/
+#anything in this data folder is off limits
+*.csv
+#ignore any file that has the file extension.csv
